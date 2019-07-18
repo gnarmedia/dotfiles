@@ -1,0 +1,18 @@
+[user]
+	email = gnarmedia@users.noreply.github.com
+	name = gnarmedia
+[alias]
+	sp = stash pop
+	s = status
+	l = log
+	b = branch
+	co = checkout
+	cob = checkout -b
+	can = commit --amend --no-edit
+	rbi = rebase -i
+	rbc = rebase --continue
+	ap = add -p
+	rba = rebase --abort
+	ca = commit --amend
+[core]
+	editor = vim

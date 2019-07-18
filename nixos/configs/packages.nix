@@ -1,0 +1,83 @@
+# Packages configuration
+
+{ options, lib, config, pkgs, modulesPath }:
+
+{
+  # Allow unfree packages
+  nixpkgs.config.allowUnfree = true;
+
+  # List packages installed in system profile. To search by name, run:
+  # $ nix search wget
+  environment.systemPackages = with pkgs; [
+    # User Management
+    # home-manager
+
+    # System
+    # appimage-run
+    # ark
+    bash
+    # bolt
+    gnumake
+    curl
+    # docker-machine
+    # exfat
+    # filelight
+    # geoclue2
+    git
+    # gnome2.libgtkhtml
+    # gnome3.gedit
+    # gnome3.nautilus
+    # gparted
+    # haskellPackages.disk-free-space
+    htop
+    # kdeApplications.spectacle
+    # libnotify
+    # ntfs3g
+    # partition-manager
+    # python37Packages.virtual-display
+    # redshift
+    solaar
+    wget
+    # wpa_supplicant
+    xclip
+
+    # Editors
+    vim
+    vscode
+
+    # Multimedia
+    # feh
+    # gpicview
+    # inkscape
+    # mpv
+    # nomacs
+    # photoqt
+    # xfce.ristretto
+    # shotwell
+
+    # Web
+    chromium
+    firefox
+    ktorrent
+
+    # Communication
+    # discord
+    # konversation
+    # riot-web
+    # skypeforlinux
+    # weechat
+
+    # Programming
+    meld
+    nodejs-8_x
+    python
+
+    # Games
+    # steam
+    # steam-run
+    # playonlinux
+
+    # Virtualization
+    # virtualbox
+  ];
+} 
