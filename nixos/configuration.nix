@@ -11,8 +11,6 @@
     ./configs/boot.nix
     ./configs/hardware.nix
     ./configs/networking.nix
-    # ./wifi-network-configuration.nix
-    # ./i18n-configuration.nix
     ./configs/services.nix
     ./configs/user.nix
     # ./fonts-configuraton.nix
