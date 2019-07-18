@@ -14,5 +14,8 @@
 	ap = add -p
 	rba = rebase --abort
 	ca = commit --amend
+	rf = reflog
+	l = log --graph --pretty='%Cred%h%Creset - %C(bold blue)<%an>%Creset %s%C(yellow)%d%Creset %Cgreen(%cr)' --abbrev-commit --date=relative
+	pp = !git push --set-upstream origin $(git rev-parse --abbrev-ref HEAD)
 [core]
 	editor = vim
