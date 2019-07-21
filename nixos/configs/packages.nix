@@ -43,7 +43,27 @@
 
     # Editors
     vim
-    vscode
+    (vscode-with-extensions.override {
+      vscodeExtensions = with vscode-extensions; [
+        bbenoist.Nix
+      ]
+
+      ++ vscode-utils.extensionsFromVscodeMarketplace [
+          {
+            name = "code-runner";
+            publisher = "formulahendry";
+            version = "0.9.11";
+            sha256 = "1gfs0aklxn9dniqhfnlyaplig2n42kvx186bbk10n3kazs44n2l0";
+          }
+          {
+            name = "gitlens";
+            publisher = "eamodio";
+            version = "9.8.5";
+            sha256 = "067jhcyy5glx9xqh6k9gkla065wsiic6lkpgfz4xpmjpn81pmva6";
+          }
+        ];
+    })
+
 
     # Multimedia
     # feh
