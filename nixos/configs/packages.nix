@@ -82,7 +82,7 @@
 
     # Communication
     # discord
-    # konversation
+    konversation
     # riot-web
     # skypeforlinux
     # weechat
