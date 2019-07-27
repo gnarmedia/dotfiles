@@ -8,6 +8,7 @@
 - link:
     # Misc
     ~/.gitconfig: misc/gitconfig
+    ~/.config/Code/User/settings.json: misc/vscode.json
 
     # Nixos
     ~/.config/nixpkgs: nixos/home.nix
