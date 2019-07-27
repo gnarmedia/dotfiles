@@ -61,6 +61,12 @@
             version = "9.8.5";
             sha256 = "067jhcyy5glx9xqh6k9gkla065wsiic6lkpgfz4xpmjpn81pmva6";
           }
+          {
+            name = "es7-react-js-snippets";
+            publisher = "dsznajder";
+            version = "2.3.0";
+            sha256 = "130n48xlhcy3cdpn16narlj7jvjh5hi63vgfbp82h7y399clni08";
+          }
         ];
     })
 
