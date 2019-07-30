@@ -96,6 +96,7 @@
     # Programming
     meld
     nodejs-8_x
+    yarn
     python
 
     # Games
