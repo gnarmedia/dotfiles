@@ -95,7 +95,7 @@
 
     # Programming
     meld
-    nodejs-8_x
+    nodejs-10_x
     yarn
     python
 
