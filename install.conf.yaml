@@ -13,4 +13,4 @@
     # Nixos
     # ~/.config/nixpkgs: nixos/home.nix
     /etc/nixos/configuration.nix: nixos/configuration.nix
-    
+    /etc/nixos/shell-configuration-node.nix: nixos/shell-configuration-node.nix
