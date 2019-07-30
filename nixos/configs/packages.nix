@@ -75,7 +75,7 @@
     # feh
     # gpicview
     # inkscape
-    # mpv
+    mpv
     # nomacs
     # photoqt
     # xfce.ristretto
