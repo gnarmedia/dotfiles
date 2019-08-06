@@ -67,6 +67,18 @@
             version = "2.3.0";
             sha256 = "130n48xlhcy3cdpn16narlj7jvjh5hi63vgfbp82h7y399clni08";
           }
+          {
+            name = "prettier-vscode";
+            publisher = "esbenp";
+            version = "1.7.0";
+            sha256 = "1nzwx7imhzccxydhpyrc08qlibcpn072zwjwc9qwfyv82m1b3f5v";
+          }
+          {
+            name = "vscode-todo-plus";
+            publisher = "fabiospampinato";
+            version = "4.13.0";
+            sha256 = "14sgkkq0hnz5fa3j2g9sjg8flxsbjswc6wrg8agq43vphng1cfm9";
+          }
         ];
     })
 
