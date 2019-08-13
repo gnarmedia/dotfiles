@@ -124,5 +124,8 @@
 
     # Virtualization
     # virtualbox
+
+    # Productivity
+    gnome3.gnome-calculator
   ];
 } 
