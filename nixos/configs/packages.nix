@@ -91,7 +91,7 @@
 
 
     # Multimedia
-    # feh
+    feh
     # gpicview
     # inkscape
     mpv
