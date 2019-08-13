@@ -25,7 +25,6 @@
     # geoclue2
     git
     # gnome2.libgtkhtml
-    # gnome3.gedit
     # gnome3.nautilus
     # gparted
     # haskellPackages.disk-free-space
@@ -87,6 +86,8 @@
           }
         ];
     })
+    kate
+    gnome3.gedit
 
 
     # Multimedia
