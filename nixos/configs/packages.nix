@@ -49,22 +49,28 @@
 
       ++ vscode-utils.extensionsFromVscodeMarketplace [
           {
+            name = "auto-rename-tag";
+            publisher = "formulahendry";
+            version = "0.1.0";
+            sha256 = "1zcxcf269jbwpsa29mlmfs3z8awbsccrq595m6chqrspnw2l8a2b";
+          }
+          {
             name = "code-runner";
             publisher = "formulahendry";
             version = "0.9.11";
             sha256 = "1gfs0aklxn9dniqhfnlyaplig2n42kvx186bbk10n3kazs44n2l0";
           }
           {
-            name = "gitlens";
-            publisher = "eamodio";
-            version = "9.8.5";
-            sha256 = "067jhcyy5glx9xqh6k9gkla065wsiic6lkpgfz4xpmjpn81pmva6";
-          }
-          {
             name = "es7-react-js-snippets";
             publisher = "dsznajder";
             version = "2.3.0";
             sha256 = "130n48xlhcy3cdpn16narlj7jvjh5hi63vgfbp82h7y399clni08";
+          }
+          {
+            name = "gitlens";
+            publisher = "eamodio";
+            version = "9.8.5";
+            sha256 = "067jhcyy5glx9xqh6k9gkla065wsiic6lkpgfz4xpmjpn81pmva6";
           }
           {
             name = "prettier-vscode";
