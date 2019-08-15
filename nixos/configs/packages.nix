@@ -90,12 +90,6 @@
             version = "0.24.0";
             sha256 = "1ipvm1zd0zq4dc6fhphcm3rrb9sxcghcj4qzfy1i4p9rvap16708";
           }
-          {
-            name = "auto-rename-tag";
-            publisher = "formulahendry";
-            version = "0.1.0";
-            sha256 = "1zcxcf269jbwpsa29mlmfs3z8awbsccrq595m6chqrspnw2l8a2b";
-          }
         ];
     })
     kate
