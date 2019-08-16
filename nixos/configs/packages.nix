@@ -79,6 +79,24 @@
             sha256 = "1nzwx7imhzccxydhpyrc08qlibcpn072zwjwc9qwfyv82m1b3f5v";
           }
           {
+            name = "stylelint";
+            publisher = "shinnn";
+            version = "0.51.0";
+            sha256 = "0qxa6jcfjl9vkx06shxjpa8k99ysvar3i0pzqdnc4aizjcayn3i4";
+          }
+          {
+            name = "vscode-eslint";
+            publisher = "dbaeumer";
+            version = "1.9.0";
+            sha256 = "1lr25v236cz8kbgbgqj6izh3f4nwp9cxygpa0zzfvfrg8gg0x49w";
+          }
+          {
+            name = "vscode-styled-components";
+            publisher = "jpoissonnier";
+            version = "0.0.26";
+            sha256 = "09lgc1fjdrgzw6n72w833kyfk7m0008lmd17r0vljcd572igfhhc";
+          }
+          {
             name = "vscode-todo-plus";
             publisher = "fabiospampinato";
             version = "4.13.0";
