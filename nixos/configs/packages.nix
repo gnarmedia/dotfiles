@@ -115,6 +115,7 @@
 
 
     # Multimedia
+    spotify
     feh
     # gpicview
     # inkscape
