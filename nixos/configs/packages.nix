@@ -85,6 +85,12 @@
             sha256 = "0qxa6jcfjl9vkx06shxjpa8k99ysvar3i0pzqdnc4aizjcayn3i4";
           }
           {
+            name = "svg";
+            publisher = "jock";
+            version = "0.1.6";
+            sha256 = "0pc2s6rpr7adlv40r1khfx8sybzg9sg47a5cl5wpd7n07sag68qc";
+          }
+          {
             name = "vscode-eslint";
             publisher = "dbaeumer";
             version = "1.9.0";
