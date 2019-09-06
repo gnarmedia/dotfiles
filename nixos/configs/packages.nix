@@ -118,7 +118,7 @@
     spotify
     feh
     # gpicview
-    # inkscape
+    inkscape
     mpv
     # nomacs
     # photoqt
@@ -131,7 +131,7 @@
     ktorrent
 
     # Communication
-    # discord
+    discord
     konversation
     # riot-web
     # skypeforlinux
