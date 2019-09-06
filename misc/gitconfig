@@ -8,6 +8,7 @@
 	b = branch
 	co = checkout
 	cob = checkout -b
+	cm = commit -m
 	can = commit --amend --no-edit
 	rbi = rebase -i
 	rbc = rebase --continue
