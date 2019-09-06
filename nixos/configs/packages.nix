@@ -73,6 +73,12 @@
             sha256 = "067jhcyy5glx9xqh6k9gkla065wsiic6lkpgfz4xpmjpn81pmva6";
           }
           {
+            name = "git-project-manager";
+            publisher = "felipecaputo";
+            version = "1.7.1";
+            sha256 = "1pghgzs89qwp9bx6z749z6a00pfqm2416n4lmna6dhpk5671hah9";
+          }
+          {
             name = "prettier-vscode";
             publisher = "esbenp";
             version = "1.7.0";
