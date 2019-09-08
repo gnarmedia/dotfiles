@@ -162,6 +162,7 @@
 
     # Virtualization
     # virtualbox
+    docker-compose
 
     # Productivity
     gnome3.gnome-calculator

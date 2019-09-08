@@ -12,7 +12,7 @@
       uid = 1000;
       extraGroups = [
         "audio"
-        # "docker"
+        "docker"
         "networkmanager"
         "wheel"
       ];
