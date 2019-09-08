@@ -97,6 +97,12 @@
             sha256 = "0pc2s6rpr7adlv40r1khfx8sybzg9sg47a5cl5wpd7n07sag68qc";
           }
           {
+            name = "vscode-docker";
+            publisher = "ms-azuretools";
+            version = "0.7.0";
+            sha256 = "0bgs6dy429m5yn10dd8m321slf5mqgsbr86ip61kvjwh67q9glcr";
+          }
+          {
             name = "vscode-eslint";
             publisher = "dbaeumer";
             version = "1.9.0";
