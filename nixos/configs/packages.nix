@@ -109,6 +109,12 @@
             sha256 = "1lr25v236cz8kbgbgqj6izh3f4nwp9cxygpa0zzfvfrg8gg0x49w";
           }
           {
+            name = "vscode-nginx";
+            publisher = "william-voyek";
+            version = "0.7.1";
+            sha256 = "0rxb9f98ns0pddykvpvhsg7mkpy59d00c08mwwrzpb234lbcxwsi";
+          }
+          {
             name = "vscode-styled-components";
             publisher = "jpoissonnier";
             version = "0.0.26";
