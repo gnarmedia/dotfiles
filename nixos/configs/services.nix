@@ -14,7 +14,7 @@
     # geoclue2.enable = true;
 
     # enable thunderbolt
-    # hardware.bolt.enable = true;
+    hardware.bolt.enable = true;
 
     xserver = {
       enable = true;

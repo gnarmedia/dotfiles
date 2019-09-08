@@ -16,7 +16,7 @@
     # appimage-run
     # ark
     bash
-    # bolt
+    bolt
     gnumake
     curl
     # docker-machine
