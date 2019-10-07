@@ -16,5 +16,10 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "javascript.updateImportsOnFileMove.enabled": "always",
-    "gitProjectManager.baseProjectsFolders": ["/home/adam/Projects/"]
+    "gitProjectManager.baseProjectsFolders": [
+        "/home/adam/Projects/"
+    ],
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
 }
