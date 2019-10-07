@@ -61,6 +61,18 @@
             sha256 = "1gfs0aklxn9dniqhfnlyaplig2n42kvx186bbk10n3kazs44n2l0";
           }
           {
+            name = "better-toml";
+            publisher = "bungcip";
+            version = "0.3.2";
+            sha256 = "08lhzhrn6p0xwi0hcyp6lj9bvpfj87vr99klzsiy8ji7621dzql3";
+          }
+          {
+            name = "editorconfig";
+            publisher = "editorconfig";
+            version = "0.13.0";
+            sha256 = "1dy7rf9w1mvk65fmxbvhbi5pf6cw2lwi07yhafq9x20c36g6dwyz";
+          }
+          {
             name = "es7-react-js-snippets";
             publisher = "dsznajder";
             version = "2.3.0";
