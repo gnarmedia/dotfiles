@@ -177,7 +177,7 @@
 
     # Programming
     meld
-    nodejs-10_x
+    nodejs-11_x
     yarn
     python
 
