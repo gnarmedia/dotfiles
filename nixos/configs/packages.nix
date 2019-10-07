@@ -14,6 +14,7 @@
 
     # System
     # appimage-run
+    archiver
     # ark
     bash
     bolt
@@ -35,6 +36,7 @@
     # partition-manager
     # python37Packages.virtual-display
     # redshift
+    shutter
     solaar
     wget
     # wpa_supplicant
