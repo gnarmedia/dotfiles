@@ -80,6 +80,10 @@
     # steam-run
     # playonlinux
 
+    # Virtualization
+    # virtualbox
+    docker-compose
+
     # Editors
     vim
     (vscode-with-extensions.override {
