@@ -54,6 +54,11 @@
     # photoqt
     # xfce.ristretto
     # shotwell
+
+    # Web
+    chromium
+    firefox
+
     # Editors
     vim
     (vscode-with-extensions.override {
