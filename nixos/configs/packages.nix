@@ -38,6 +38,8 @@
     # redshift
     shutter
     solaar
+    synergy
+    unzip
     wget
     # wpa_supplicant
     xclip
