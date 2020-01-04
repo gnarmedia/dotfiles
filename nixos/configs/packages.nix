@@ -84,6 +84,9 @@
     # virtualbox
     docker-compose
 
+    # Productivity
+    gnome3.gnome-calculator
+
     # Editors
     vim
     (vscode-with-extensions.override {
