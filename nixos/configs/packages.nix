@@ -74,6 +74,12 @@
     meld
     nodejs-11_x
     python
+
+    # Gaming
+    steam
+    # steam-run
+    # playonlinux
+
     # Editors
     vim
     (vscode-with-extensions.override {
