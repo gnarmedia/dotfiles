@@ -59,6 +59,9 @@
     chromium
     firefox
 
+    # Fle Sharing
+    ktorrent
+
     # Editors
     vim
     (vscode-with-extensions.override {
