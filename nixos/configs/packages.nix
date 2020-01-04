@@ -44,6 +44,16 @@
     # wpa_supplicant
     xclip
 
+    # Multimedia
+    spotify
+    feh
+    # gpicview
+    inkscape
+    mpv
+    # nomacs
+    # photoqt
+    # xfce.ristretto
+    # shotwell
     # Editors
     vim
     (vscode-with-extensions.override {
