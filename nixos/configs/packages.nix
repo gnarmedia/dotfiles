@@ -69,6 +69,11 @@
     # skypeforlinux
     qtox
     # weechat
+
+    # Programming
+    meld
+    nodejs-11_x
+    python
     # Editors
     vim
     (vscode-with-extensions.override {
