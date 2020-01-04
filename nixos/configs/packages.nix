@@ -62,6 +62,13 @@
     # Fle Sharing
     ktorrent
 
+    # Communication
+    discord
+    konversation
+    riot-web
+    # skypeforlinux
+    qtox
+    # weechat
     # Editors
     vim
     (vscode-with-extensions.override {
