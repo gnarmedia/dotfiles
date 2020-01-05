@@ -195,47 +195,5 @@
     })
     kate
     gnome3.gedit
-
-
-    # Multimedia
-    spotify
-    feh
-    # gpicview
-    inkscape
-    mpv
-    # nomacs
-    # photoqt
-    # xfce.ristretto
-    # shotwell
-
-    # Web
-    chromium
-    firefox
-    ktorrent
-
-    # Communication
-    discord
-    konversation
-    # riot-web
-    # skypeforlinux
-    # weechat
-
-    # Programming
-    meld
-    nodejs-11_x
-    yarn
-    python
-
-    # Games
-    # steam
-    # steam-run
-    # playonlinux
-
-    # Virtualization
-    # virtualbox
-    docker-compose
-
-    # Productivity
-    gnome3.gnome-calculator
   ];
 } 
